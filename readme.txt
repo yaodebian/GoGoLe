@@ -17,3 +17,4 @@
           url="jdbc:mysql://localhost:3306/loginmanage" />
         </Context> 
 3.打开TomCat服务器，在浏览器中输入"localhost+（:端口号）+/gole/index"运行项目;
+4.关于这个小demo的详细的描述，详见：https://blog.csdn.net/yaodebian/article/details/79829812，相关赘述仅供参考。
